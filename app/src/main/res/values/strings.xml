@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mobile Vending System</string>
+    <string name="title_register">Enter Your Details</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="button_register">Register</string>
+    <string name="login_title">Login</string>
+    <string name="button_login">login</string>
+    <string name="register_link">Not a registered user? register here..</string>
+    <string name="hint_lastname">last name</string>
+    <string name="hint_firstname">first name</string>
+    <string name="hint_role">Select a role..</string>
+    <string name="hint_phone">phone</string>
+    <string name="hint_email">email</string>
+    <string name="hint_street">Street adress</string>
+    <string name="hint_city">city</string>
+    <string name="hint_state">state</string>
+    <string name="hint_zipcode">zip code</string>
+    <string name="greeting_user">Hello</string>
+    <string name="cart_title">View Cart(s)</string>
+    <string name="truck_title">View Truck(s)</string>
+    <string name="text_logout">logout</string>
+
+    <string-array name="roles">
+        <item>Select a role..</item>
+        <item>User</item>
+        <item>Operator</item>
+        <item>Manager</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="Order_history">Order History</string>
+    <string name="profile_title">View Profile</string>
+    <string name="button_viewProfile" >View Profile</string>
+    <string name="button_updateProfile">Update Profile</string>
+    <string name="button_submit">Submit</string>
+</resources>
